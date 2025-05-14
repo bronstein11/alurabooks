@@ -62,36 +62,21 @@ Para execução local deste projeto, você precisará apenas de:
 
 Ou acesse a [versão online do projeto](#) (adicione o link quando disponível)
 
-## 🔍 Preview do Projeto
-
-### Versão Mobile
-![Versão Mobile](assets/mobile-preview.jpg)
-
-### Versão Tablet
-![Versão Tablet](assets/tablet-preview.jpg)
-
-### Versão Desktop
-![Versão Desktop](assets/desktop-preview.jpg)
 
 ## 🎯 Estado do Projeto
 
 O projeto está finalizado com todas as funcionalidades implementadas e o layout responsivo funcionando corretamente.
 
-## 🔄 Próximos Passos
 
-- Implementação de backend para cadastro e login de usuários
-- Sistema de carrinho de compras funcional
-- Integração com meios de pagamento
-- Área administrativa para gerenciamento de produtos
+## 👩‍💻 Autor
 
-## 👩‍💻 Autores
+Desenvolvido por Mauricio Grass de Bronstein👋\
 
-Desenvolvido durante os cursos da Alura de HTML e CSS.
+Se quiser entrar em contato, você me encontra em: 
+E-mail: mauriciobronstein@hotmail.com
+Linkedin: www.linkedin.com/in/mauricio-bronstein
+Github: https://github.com/bronstein11
 
-## 📄 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
 
 ---
 
-Desenvolvido com ❤️ | Alura
