@@ -60,7 +60,7 @@ Para execução local deste projeto, você precisará apenas de:
 1. Clone o repositório ou faça o download dos arquivos
 2. Abra o arquivo `index.html` em seu navegador
 
-Ou acesse a versão online do projeto
+Ou acesse a versão online do projeto: https://alurabooks-rho-nine.vercel.app
 
 
 ## 🎯 Estado do Projeto
