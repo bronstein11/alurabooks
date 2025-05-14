@@ -69,13 +69,13 @@ O projeto está finalizado com todas as funcionalidades implementadas e o layout
 
 
 ## 👩‍💻 Autor
+Desenvolvido por Mauricio Grass de Bronstein 👋
+Se quiser entrar em contato, você me encontra em:
 
-Desenvolvido por Mauricio Grass de Bronstein👋\
-
-Se quiser entrar em contato, você me encontra em: 
 E-mail: mauriciobronstein@hotmail.com
 Linkedin: www.linkedin.com/in/mauricio-bronstein
 Github: https://github.com/bronstein11
+
 
 
 ---
